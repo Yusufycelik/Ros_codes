@@ -1,0 +1,2 @@
+hector_nist_arenas_gazebo/hector_nist_arena_designer:hector_nist_arenas_gazebo/hector_nist_arena_elements:hector_nist_arenas_gazebo/hector_nist_arena_worlds:odev2:pioneer3at_demo/p3at_description:pioneer3at_demo/p3at_gazebo:pioneer3at_demo/p3at_plugin
+-DCATKIN_DEVEL_PREFIX=/home/deno/homeworks_ws/devel -DCMAKE_INSTALL_PREFIX=/home/deno/homeworks_ws/install -G Unix Makefiles

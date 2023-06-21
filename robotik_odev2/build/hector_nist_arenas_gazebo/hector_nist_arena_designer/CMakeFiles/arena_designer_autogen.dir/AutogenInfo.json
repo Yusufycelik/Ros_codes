@@ -1,0 +1,185 @@
+{
+	"BUILD_DIR" : "/home/deno/homeworks_ws/build/hector_nist_arenas_gazebo/hector_nist_arena_designer/arena_designer_autogen",
+	"CMAKE_BINARY_DIR" : "/home/deno/homeworks_ws/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/deno/homeworks_ws/build/hector_nist_arenas_gazebo/hector_nist_arena_designer",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/deno/homeworks_ws/src/hector_nist_arenas_gazebo/hector_nist_arena_designer",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_SOURCE_DIR" : "/home/deno/homeworks_ws/src",
+	"HEADERS" : 
+	[
+		[
+			"/home/deno/homeworks_ws/src/hector_nist_arenas_gazebo/hector_nist_arena_designer/src/model/arena.h",
+			"Mu",
+			"VNQA4LF4BW/moc_arena.cpp"
+		],
+		[
+			"/home/deno/homeworks_ws/src/hector_nist_arenas_gazebo/hector_nist_arena_designer/src/model/arenaelement.h",
+			"Mu",
+			"VNQA4LF4BW/moc_arenaelement.cpp"
+		],
+		[
+			"/home/deno/homeworks_ws/src/hector_nist_arenas_gazebo/hector_nist_arena_designer/src/model/arenaelementtype.h",
+			"Mu",
+			"VNQA4LF4BW/moc_arenaelementtype.cpp"
+		],
+		[
+			"/home/deno/homeworks_ws/src/hector_nist_arenas_gazebo/hector_nist_arena_designer/src/model/arenaelementtyperegistry.h",
+			"Mu",
+			"VNQA4LF4BW/moc_arenaelementtyperegistry.cpp"
+		],
+		[
+			"/home/deno/homeworks_ws/src/hector_nist_arenas_gazebo/hector_nist_arena_designer/src/model/xmlloadingexception.h",
+			"Mu",
+			"VNQA4LF4BW/moc_xmlloadingexception.cpp"
+		],
+		[
+			"/home/deno/homeworks_ws/src/hector_nist_arenas_gazebo/hector_nist_arena_designer/src/ui/arenacontroller.h",
+			"Mu",
+			"YPKJ5OE7LN/moc_arenacontroller.cpp"
+		],
+		[
+			"/home/deno/homeworks_ws/src/hector_nist_arenas_gazebo/hector_nist_arena_designer/src/ui/arenaelementtypescene.h",
+			"Mu",
+			"YPKJ5OE7LN/moc_arenaelementtypescene.cpp"
+		],
+		[
+			"/home/deno/homeworks_ws/src/hector_nist_arenas_gazebo/hector_nist_arena_designer/src/ui/arenascene.h",
+			"Mu",
+			"YPKJ5OE7LN/moc_arenascene.cpp"
+		],
+		[
+			"/home/deno/homeworks_ws/src/hector_nist_arenas_gazebo/hector_nist_arena_designer/src/ui/arenasceneelement.h",
+			"Mu",
+			"YPKJ5OE7LN/moc_arenasceneelement.cpp"
+		],
+		[
+			"/home/deno/homeworks_ws/src/hector_nist_arenas_gazebo/hector_nist_arena_designer/src/ui/arenaview.h",
+			"Mu",
+			"YPKJ5OE7LN/moc_arenaview.cpp"
+		],
+		[
+			"/home/deno/homeworks_ws/src/hector_nist_arenas_gazebo/hector_nist_arena_designer/src/ui/editor.h",
+			"Mu",
+			"YPKJ5OE7LN/moc_editor.cpp"
+		],
+		[
+			"/home/deno/homeworks_ws/src/hector_nist_arenas_gazebo/hector_nist_arena_designer/src/ui/metainfobox.h",
+			"Mu",
+			"YPKJ5OE7LN/moc_metainfobox.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/deno/homeworks_ws/build/hector_nist_arenas_gazebo/hector_nist_arena_designer/arena_designer_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/deno/homeworks_ws/build/hector_nist_arenas_gazebo/hector_nist_arena_designer/arena_designer_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NO_DEBUG",
+		"QT_WIDGETS_LIB",
+		"QT_XML_LIB",
+		"ROS_BUILD_SHARED_LIBS=1"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/deno/homeworks_ws/src/hector_nist_arenas_gazebo/hector_nist_arena_designer/src",
+		"/home/deno/homeworks_ws/build/hector_nist_arenas_gazebo/hector_nist_arena_designer",
+		"/usr/include/x86_64-linux-gnu/qt5",
+		"/usr/include/x86_64-linux-gnu/qt5/QtWidgets",
+		"/usr/include/x86_64-linux-gnu/qt5/QtGui",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore",
+		"/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include/x86_64-linux-gnu/qt5/QtXml",
+		"/usr/include/c++/9",
+		"/usr/include/x86_64-linux-gnu/c++/9",
+		"/usr/include/c++/9/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/9/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : true,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/deno/homeworks_ws/build/hector_nist_arenas_gazebo/hector_nist_arena_designer/arena_designer_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 6,
+	"PARSE_CACHE_FILE" : "/home/deno/homeworks_ws/build/hector_nist_arenas_gazebo/hector_nist_arena_designer/CMakeFiles/arena_designer_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"SETTINGS_FILE" : "/home/deno/homeworks_ws/build/hector_nist_arenas_gazebo/hector_nist_arena_designer/CMakeFiles/arena_designer_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/deno/homeworks_ws/src/hector_nist_arenas_gazebo/hector_nist_arena_designer/src/main.cpp",
+			"Mu"
+		],
+		[
+			"/home/deno/homeworks_ws/src/hector_nist_arenas_gazebo/hector_nist_arena_designer/src/model/arena.cpp",
+			"Mu"
+		],
+		[
+			"/home/deno/homeworks_ws/src/hector_nist_arenas_gazebo/hector_nist_arena_designer/src/model/arenaelement.cpp",
+			"Mu"
+		],
+		[
+			"/home/deno/homeworks_ws/src/hector_nist_arenas_gazebo/hector_nist_arena_designer/src/model/arenaelementtype.cpp",
+			"Mu"
+		],
+		[
+			"/home/deno/homeworks_ws/src/hector_nist_arenas_gazebo/hector_nist_arena_designer/src/model/arenaelementtyperegistry.cpp",
+			"Mu"
+		],
+		[
+			"/home/deno/homeworks_ws/src/hector_nist_arenas_gazebo/hector_nist_arena_designer/src/model/xmlloadingexception.cpp",
+			"Mu"
+		],
+		[
+			"/home/deno/homeworks_ws/src/hector_nist_arenas_gazebo/hector_nist_arena_designer/src/ui/arenacontroller.cpp",
+			"Mu"
+		],
+		[
+			"/home/deno/homeworks_ws/src/hector_nist_arenas_gazebo/hector_nist_arena_designer/src/ui/arenaelementtypescene.cpp",
+			"Mu"
+		],
+		[
+			"/home/deno/homeworks_ws/src/hector_nist_arenas_gazebo/hector_nist_arena_designer/src/ui/arenascene.cpp",
+			"Mu"
+		],
+		[
+			"/home/deno/homeworks_ws/src/hector_nist_arenas_gazebo/hector_nist_arena_designer/src/ui/arenasceneelement.cpp",
+			"Mu"
+		],
+		[
+			"/home/deno/homeworks_ws/src/hector_nist_arenas_gazebo/hector_nist_arena_designer/src/ui/arenaview.cpp",
+			"Mu"
+		],
+		[
+			"/home/deno/homeworks_ws/src/hector_nist_arenas_gazebo/hector_nist_arena_designer/src/ui/editor.cpp",
+			"Mu"
+		],
+		[
+			"/home/deno/homeworks_ws/src/hector_nist_arenas_gazebo/hector_nist_arena_designer/src/ui/metainfobox.cpp",
+			"Mu"
+		]
+	],
+	"VERBOSITY" : 0
+}
